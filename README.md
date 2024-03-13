@@ -1,10 +1,10 @@
 
 
-# Proyecto Storytelling (template): 
+G17 Pixel: 
 
-Nombre del Equipo: 
+Nombre del Equipo: Joy
 
-Proyecto (código): 
+Proyecto (código): G17
 
 Tipo/Género:  
 - [ ] FictionCiberpunk  
