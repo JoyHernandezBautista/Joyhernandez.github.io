@@ -68,7 +68,7 @@ El conflicto central de "Pixel: El Error del Sistema" se centra en la lucha de P
 
 ### Productos
 
-- Personaje: (img personaje y enlace a interactivo) 
+- Personaje: https://h5p.org/node/1478964
 
 
 - Banner/Teaser:  (enlace) 
