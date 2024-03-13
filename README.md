@@ -14,6 +14,9 @@ Tipo/Género:
 
 ## Resumen
 
+Pixel es el resultado de un error informático, un bug. Fue creado para ser parte del código de seguridad que protegería los secretos del Gobierno español.
+El informático que debía escribirlo, sin embargo, lo añade erróneamente, convirtiéndolo en el responsable de una ruptura en el sistema de seguridad y poniendo en riesgo la información confidencial de nuestro país. Por lo que se ve condenado a una vida huyendo de los antivirus que buscan destruirlo antes de que siga causando más caos.
+Pixel no pidió existir, y no parará hasta que su creador se arrepienta.
 
 
 ### Personaje
