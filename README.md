@@ -20,7 +20,7 @@ Tipo/Género:
 
 ![418590446_1360460622019980_2623834416069462985_n](https://github.com/JoyHernandezBautista/storytelling/assets/162916518/8414284f-6dc2-4acf-b4a2-676b74badc97)
 
-Nombre: 
+Nombre: Joy Judith Hernandez Bautista
 
 
 ### Historia
