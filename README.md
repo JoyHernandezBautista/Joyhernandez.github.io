@@ -7,9 +7,9 @@ Nombre del Equipo:
 Proyecto (código): 
 
 Tipo/Género:  
-- [x] FictionCiberpunk  
+- [ ] FictionCiberpunk  
 - [ ] Reality/tribus urbanas  
-- [ ] Comic
+- [x] Comic
 
 
 ## Resumen
