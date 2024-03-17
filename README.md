@@ -68,7 +68,9 @@ El conflicto central de "Pixel: El Error del Sistema" se centra en la lucha de P
 
 ### Productos
 
-- Personaje: https://h5p.org/node/1478964
+- Personaje:
+  Quiz de personalidad: https://h5p.org/node/1479471
+  Pixelgrama: https://h5p.org/node/1478964
 
 
 - Banner/Teaser:  (enlace) 
